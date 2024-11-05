@@ -46,6 +46,7 @@ export default defineConfig({
         description: 'Offline-first Gurbani search application',
         theme_color: '#11171c',
         background_color: '#11171c',
+        id: 'offline-gurbani-search-banidb',
         lang: 'en',
         scope: '/',
         dir: 'auto',
